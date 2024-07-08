@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">project2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="loginView">Login</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">ConfirmPassword</string>
+    <string name="login">Login</string>
+    <string name="signUp">SignUp</string>
+    <string name="header">WordActivity</string>
+    <string name="sourcePage">sourcePage</string>
+    <string name="loginForSource">enter</string>
+    <string name="checkSynonymsText">check for synonyms </string>
+    <string name="inputSynonymsButton">enter</string>
+    <string name="editTextForAntonyms">check for antonyms</string>
+    <string name="buttonForAntonyms">enter</string>
+    <string name="definitionPage">phoneticPage</string>
+    <string name="definitionLogin">enter</string>
+    <string name="definitionTextView">check for rhymes</string>
+    <string name="definitionButton">enter</string>
+    <string name="definitionType">find syllable</string>
+    <string name="definitionTypeButton">enter</string>
+    <string name="exampleWordPage">spinnerGamePage</string>
+    <string name="definitionWordPageLogin">enter</string>
+    <string name="exampleTitleButton">enter</string>
+    <string name="frequencyWord">frequencyWord</string>
+    <string name="frequencyWordButton">enter</string>
+    <string name="randomWordActivityPages">randomWordActivityPages</string>
+    <string name="randomWordActivityPagesButton">enter</string>
+    <string name="partOf">partOf</string>
+    <string name="partOfButton">enter</string>
+    <string name="hasType">hasType</string>
+    <string name="hasTypeButton">hasTypeButton</string>
+    <string name="syllablesActivityPage">syllablesActivityPage</string>
+    <string name="syllablesActivityPageButton">enter</string>
+    <string name="syllablesForWord">syllablesForWord</string>
+    <string name="syllablesForWordButton">enter</string>
+    <string name="pronunciation">pronunciation</string>
+    <string name="pronunciationButton">enter</string>
+    <string name="mapActivity">firebaseActivityPage</string>
+    <string name="mapActivityButton">enter</string>
+    <string name="mapConfirmButton">confirm</string>
+    <string name="firebaseText">user information</string>
+    <string name="firebaseEditText">Content Information</string>
+    <string name="definitionTextView2">check for definition</string>
+    <string name="updateCurrentWord">update current word</string>
+    <string name="headerSpinner">header spinner</string>
+    <string name="correspindSpinner">corresponding item spinner</string>
+    <string name="exampleTitle">spinner game</string>
+    <string name="exampleTitle2">make sentence for current word</string>
+    <string name="rateButton">go rating</string>
+    <string name="rateTextView">Rate the Current Word</string>
+    <string name="textForRating">Rate the current word</string>
+    <string name="viewForInformationWord">Are you satisfied with the information about this word? If So, please give your valuable rating.Thank You!</string>
+    <string name="summitButtonForRate">rate</string>
+
+
+
+    <string-array name="spinner">
+        <item></item>
+        <item>usage&amp;&amp;region</item>
+        <item>member &amp;&amp;category</item>
+        <item>types&amp;&amp;substance</item>
+        <item>similarity&amp;&amp;entailment</item>
+        <item>part&amp;&amp;instance</item>
+    </string-array>
+
+    <string-array name="spinner1">
+        <item></item>
+        <item>region of</item>
+        <item>in region</item>
+        <item>has usages</item>
+        <item>usage of</item>
+    </string-array>
+
+
+    <string-array name="spinner2">
+        <item></item>
+        <item>has members</item>
+        <item>members of</item>
+        <item>has category</item>
+        <item>in category</item>
+    </string-array>
+
+    <string-array name="spinner3">
+        <item></item>
+        <item>is type of</item>
+        <item>has type</item>
+        <item>has substance</item>
+        <item>substance of</item>
+    </string-array>
+
+    <string-array name="spinner4">
+        <item></item>
+        <item>also</item>
+        <item>similar to</item>
+        <item>entail</item>
+    </string-array>
+
+    <string-array name="spinner5">
+        <item></item>
+        <item>part of</item>
+        <item>has parts</item>
+        <item>is an instance of</item>
+        <item>has instances</item>
+    </string-array>
+
+
+    <string-array name="spinner6">
+        <item>take</item>
+        <item>make</item>
+        <item>work</item>
+        <item>last</item>
+        <item>right</item>
+        <item>big</item>
+        <item>hard</item>
+        <item>clean</item>
+        <item>start</item>
+        <item>know</item>
+        <item>banana</item>
+        <item>explore</item>
+        <item>garden</item>
+        <item>sun</item>
+        <item>Butterfly</item>
+        <item>fireplace</item>
+        <item>celebrate</item>
+        <item>delicious</item>
+        <item>ocean</item>
+        <item>lullaby</item>
+        <item>imagination</item>
+        <item>simplify</item>
+        <item>captivate</item>
+    </string-array>
+
+
+    <string-array name="spinnerForAutoComplete">
+        <item></item>
+        <item>take</item>
+        <item>make</item>
+        <item>work</item>
+        <item>last</item>
+    </string-array>
+
+
+</resources>

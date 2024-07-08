@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">项目2</string>
+    <string name="title_activity_maps">地图活动</string>
+    <string name="loginView">登录</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="confirmPassword">确认密码</string>
+    <string name="login">登录</string>
+    <string name="signUp">注册</string>
+    <string name="header">单词活动</string>
+    <string name="sourcePage">源页面</string>
+    <string name="loginForSource">进入</string>
+    <string name="checkSynonymsText">检查同义词文本</string>
+    <string name="inputSynonymsButton">进入</string>
+    <string name="editTextForAntonyms">编辑代名词文本</string>
+    <string name="buttonForAntonyms">进入</string>
+    <string name="definitionPage">定义页</string>
+    <string name="definitionLogin">进入</string>
+    <string name="definitionTextView">定义文本视图</string>
+    <string name="definitionButton">进入</string>
+    <string name="definitionType">定义类型</string>
+    <string name="definitionTypeButton">进入</string>
+    <string name="exampleWordPage">示例页面</string>
+    <string name="definitionWordPageLogin">进入</string>
+    <string name="exampleTitle">检查例句</string>
+    <string name="exampleTitleButton">进入</string>
+    <string name="frequencyWord">频率词</string>
+    <string name="frequencyWordButton">进入</string>
+    <string name="randomWordActivityPages">随机单词活动页</string>
+    <string name="randomWordActivityPagesButton">进入</string>
+    <string name="partOf">部分</string>
+    <string name="partOfButton">进入</string>
+    <string name="hasType">有类型</string>
+    <string name="hasTypeButton">有类型按钮</string>
+    <string name="syllablesActivityPage">音节活动页面</string>
+    <string name="syllablesActivityPageButton">进入</string>
+    <string name="syllablesForWord">单词音节</string>
+    <string name="syllablesForWordButton">进入</string>
+    <string name="pronunciation">发音</string>
+    <string name="pronunciationButton">进入</string>
+    <string name="mapActivity">地图活动</string>
+    <string name="mapActivityButton">进入</string>
+    <string name="mapConfirmButton">确认</string>
+    <string name="firebaseText">防火墙活动</string>
+    <string name="firebaseEditText">内容信息</string>
+    <string name="definitionTextView2">定义</string>
+    <string name="updateCurrentWord">更新当前词</string>
+    <string name="headerSpinner">标题旋转器</string>
+    <string name="correspindSpinner">相应项目的旋转器</string>
+    <string name="exampleTitle2">造句</string>
+    <string name="rateButton">评分</string>
+    <string name="rateTextView">为当前单词评分</string>
+    <string name="textForRating">为当前单词评分</string>
+    <string name="viewForInformationWord">你对这个词的信息感到满意吗，请给出您宝贵的评价</string>
+    <string name="summitButtonForRate">评分</string>
+
+
+    <string-array name="spinner">
+        <item></item>
+        <item>用法&amp;&amp;地区</item>
+        <item>成员 &amp;&amp;类别</item>
+        <item>类型&amp;&amp;内容</item>
+        <item>相似性&amp;&amp;蕴涵</item>
+        <item>部分&amp;&amp;实例</item>
+    </string-array>
+
+    <string-array name="spinner1">
+        <item></item>
+        <item>地区</item>
+        <item>在地区</item>
+        <item>有用法</item>
+        <item>使用</item>
+    </string-array>
+
+    <string-array name="spinner2">
+        <item></item>
+        <item>有成员</item>
+        <item>成员</item>
+        <item>具有类别</item>
+        <item>类别</item>
+    </string-array>
+
+    <string-array name="spinner3">
+        <item></item>
+        <item>是一种</item>
+        <item>具有类型</item>
+        <item>有意义</item>
+        <item>物质</item>
+    </string-array>
+
+    <string-array name="spinner4">
+        <item></item>
+        <item>还</item>
+        <item>类似于</item>
+        <item>连带</item>
+    </string-array>
+
+    <string-array name="spinner5">
+        <item></item>
+        <item>部分</item>
+        <item>有部件</item>
+        <item>的一个实例</item>
+        <item>有实例</item>
+    </string-array>
+
+</resources>
