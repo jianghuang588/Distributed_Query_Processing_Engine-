@@ -1,9 +1,9 @@
-# Intruction
+# Intruction:
 - Set up android studio environemt
 - Download the Dictionary App from Github
 - Put the folder in the desirable location
 - Use the android studio to open the Dictionary App
-# To test the app, please use the following words
+# To test the app, please use the following words:
 
 **(Source, Phonetic, Firebase activity page)**
 	
@@ -63,7 +63,7 @@ Is an instance: [einstein, beethoven, amazon, shakespeare, marathon, harvard]
 
 Has instance: [president, country, book, actor, city, island]
 
-# Dictionary App Walk Through
+# Dictionary App Walk Through:
 ## Login and Register Page
 ![login_register](https://github.com/user-attachments/assets/ee60932d-856f-4d82-bb4e-76981f629e63)
 ## Word Information and Phonetic Page
