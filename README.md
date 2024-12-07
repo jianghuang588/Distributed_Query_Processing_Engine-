@@ -23,7 +23,7 @@ Login and Register Page → Word Information and Phonetic Page → Spinner Game 
 
 ---
 
-### 📝 **Screencasts**
+### 📝 **Screencasts (GIFs)**
 
 <details>
 <summary>🔐 **Login and Register Page**</summary>
