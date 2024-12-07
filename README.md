@@ -102,5 +102,4 @@ Login and Register Page → Word Information and Phonetic Page → Spinner Game 
 - **Synchronization**: Real-time data syncing across users.
 - **Localization**: Chinese language support.
 
----
 
