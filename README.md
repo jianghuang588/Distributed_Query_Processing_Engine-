@@ -1,4 +1,4 @@
-# 📖 Dictionary App Documentation
+# 📖 Distributed Query Processing Engine 
 
 ---
 
